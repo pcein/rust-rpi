@@ -1,0 +1,8 @@
+[package]
+name = "rustgpio"
+version = "0.1.0"
+authors = ["Pramode <mail@pramode.net>"]
+
+[dependencies]
+
+byteorder = "0.5.3"
