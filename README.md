@@ -17,6 +17,8 @@ pigpio project (under the directory PIGPIO).
 Note: The Rust code has been tested on both a Raspberry
 Pi 3 and on desktop systems, but not thoroughly.
 
+Documentation: http://pramode.in/2016/08/31/rust-library-for-rpi-gpio-pgming/
+
 Installation
 =============
 
